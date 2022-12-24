@@ -1,0 +1,14 @@
+C:\Users\USER\Downloads\DBMS-Course-main\Application\Code\DemoLoi\DemoLoi\DemoLoi\bin\Release\DemoLoi.exe.config
+C:\Users\USER\Downloads\DBMS-Course-main\Application\Code\DemoLoi\DemoLoi\DemoLoi\bin\Release\DemoLoi.exe
+C:\Users\USER\Downloads\DBMS-Course-main\Application\Code\DemoLoi\DemoLoi\DemoLoi\bin\Release\DemoLoi.pdb
+C:\Users\USER\Downloads\DBMS-Course-main\Application\Code\DemoLoi\DemoLoi\DemoLoi\obj\Release\DemoLoi.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\DBMS-Course-main\Application\Code\DemoLoi\DemoLoi\DemoLoi\obj\Release\DemoLoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Downloads\DBMS-Course-main\Application\Code\DemoLoi\DemoLoi\DemoLoi\obj\Release\DemoLoi.Form1.resources
+C:\Users\USER\Downloads\DBMS-Course-main\Application\Code\DemoLoi\DemoLoi\DemoLoi\obj\Release\DemoLoi.Form2.resources
+C:\Users\USER\Downloads\DBMS-Course-main\Application\Code\DemoLoi\DemoLoi\DemoLoi\obj\Release\DemoLoi.Form3.resources
+C:\Users\USER\Downloads\DBMS-Course-main\Application\Code\DemoLoi\DemoLoi\DemoLoi\obj\Release\DemoLoi.Properties.Resources.resources
+C:\Users\USER\Downloads\DBMS-Course-main\Application\Code\DemoLoi\DemoLoi\DemoLoi\obj\Release\DemoLoi.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\DBMS-Course-main\Application\Code\DemoLoi\DemoLoi\DemoLoi\obj\Release\DemoLoi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\DBMS-Course-main\Application\Code\DemoLoi\DemoLoi\DemoLoi\obj\Release\DemoLoi.exe
+C:\Users\USER\Downloads\DBMS-Course-main\Application\Code\DemoLoi\DemoLoi\DemoLoi\obj\Release\DemoLoi.pdb
+C:\Users\USER\Downloads\DBMS-Course-main\Application\Code\DemoLoi\DemoLoi\DemoLoi\obj\Release\DemoLoi.Form4.resources
